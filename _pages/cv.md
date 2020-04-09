@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Artificial Intelligence (Specialisation in Robot Cognition), Radboud University University, 2020 (expected)
+* M.S. in Artificial Intelligence (Specialisation in Robot Cognition), Radboud University, 2020 (expected)
 * M.Eng. in Electrical and Electronic Engineering, SLIIT, 2017
 
 Work experience
