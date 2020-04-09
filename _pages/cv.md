@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Artificial Intelligence (Specialisation in Robot Cognition), Radboud University University, 2020 (expected)
+* M.Eng. in Electrical and Electronic Engineering, SLIIT, 2017
 
 Work experience
 ======
