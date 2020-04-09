@@ -11,9 +11,9 @@ title                    : "Sameera Sandaruwan"
 title_separator          : "-"
 name                     : &name "Sameera Sandaruwan"
 description              : &description "personal description"
-url                      : https://bassandaruwan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://basameera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bassandaruwan/bassandaruwan.github.io"
+repository               : "basameera/basameera.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bassandaruwan"
+  github           : "basameera"
   google_plus      :
   keybase          :
   instagram        :
