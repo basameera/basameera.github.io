@@ -2,6 +2,8 @@
 main:
   - title: "Curriculum Vitae"
     url: /cv/
+  # - title: "Projects"
+  #   url: /projects/
   - title: "Blog"
     url: https://medium.com/@bassandaruwan
   # - title: "About"

@@ -9,3 +9,6 @@ Based on [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mis
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 <!-- [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes) -->
 
+### Local Run
+
+`bundle exec jekyll serve`
