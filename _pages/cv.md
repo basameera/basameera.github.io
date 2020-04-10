@@ -1,18 +1,20 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+toc: true
+toc_sticky: true
 ---
 
 {% include base_path %}
 
 ## Education
 
-* M. S.in Artificial Intelligence (Specialisation in Robot Cognition), Radboud University, April 2020 (expected)
-* M. Eng.in Electrical and Electronic Engineering, SLIIT, March 2017
+* M. Sc. in Artificial Intelligence (Specialisation in Robot Cognition), Radboud University, April 2020 (expected)
+* M. Eng. in Electrical and Electronic Engineering, SLIIT, March 2017
 
 ## Work experience
 
@@ -83,5 +85,5 @@ redirect_from:
 * IEEE student branch active member (2013), Event Organizer (2014) and Assistant Secretary (2015)
 * An active member of the Science Union and Organized the Science Day 2011
 
-([Download CV](http://127.0.0.1:4000/files/cv.pdf))
+([Download CV](https://basameera.github.io/files/cv.pdf))
 
