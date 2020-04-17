@@ -82,8 +82,11 @@ toc_sticky: true
 * SAITM Robotic Challenge 2014 – Runners Up
 * IEEE Electronic Design Competition 2014 - Participation
 * IEEEXtreme Programming Competition 8.0 (2014) - Participation (Team Phentons)
-* IEEE student branch active member (2013), Event Organizer (2014) and Assistant Secretary (2015)
-* An active member of the Science Union and Organized the Science Day 2011
+* IEEE student branch of SLIIT
+    - Assistant Secretary (2015)
+    - Event Organizer (2014)
+    - Active member (2013)
+* An active member of the Science Union and Organized the Science Day 2011 (St. Joseph's College, Colombo 10, Sri Lanka)
 
 ([Download CV](https://basameera.github.io/files/cv.pdf))
 
