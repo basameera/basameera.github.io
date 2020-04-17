@@ -13,6 +13,8 @@ toc_sticky: true
 
 Openly available feature-based Visual Odometery algorithms have a high computational cost. This hinders the use of these algorithms in agile robotics platforms such as racing drones. A wide range of researchers has looked into, using data-driven learning methods such as Deep Learning, instead, the use of traditional feature-based methods for developing a new class of visual odometry systems. These systems have mainly relied on datasets designed for low degree-of-freedom systems such as cars. Hence, even this new class of algorithms, suffer from high computational cost and inability to handle agile robotics systems. Therefore, this research will look into developing a learning-based visual odometry system, specifically designed for racing drones, which can handle high-speed agile motion with a low computational cost.
 
+([Download](https://basameera.github.io/files/MSc_thesis.pdf))
+
 ## A Quadcopter with Automated Take-off And Landing on Mobile Robot Platform (MEng Thesis)
 
 In this thesis, a controller is designed for an off the shelf quadcopter to give it the ability to autonomously takeoff, hover at a given altitude, follow and land on a mobile robot platform. This is a small part of a much bigger system which is a quadcopter and a mobile robot combined fully autonomous surveillance system. The (bigger) system can navigate and complete a given task without any human interaction. 
