@@ -38,7 +38,6 @@ toc_sticky: true
 * Programming languages - C, C++, Java, Python, JavaScript, Node JS, MATLAB
 * Robotics
 * Control Systems
-* Microcontroller programming
 * Embedded System Design
 * Wireless Communication
 
