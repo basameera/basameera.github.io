@@ -13,8 +13,8 @@ toc_sticky: true
 
 ## Education
 
-* M. Sc. in Artificial Intelligence (Specialisation in Robot Cognition), Radboud University, April 2020 (expected)
-* M. Eng. in Electrical and Electronic Engineering, SLIIT, March 2017
+* M. Sc. in Artificial Intelligence (Specialisation in Robot Cognition), Radboud University, The Netherlands, April 2020
+* M. Eng. in Electrical and Electronic Engineering, [SLIIT](https://www.sliit.lk/), Sri Lanka, March 2017 
 
 ## Work experience
 
