@@ -35,11 +35,11 @@ toc_sticky: true
 ## Skills
 
 * Deep Learning
-* Programming languages - C, C++, Java, Python, JavaScript, Node JS, MATLAB
 * Robotics
 * Control Systems
 * Embedded System Design
 * Wireless Communication
+* Programming languages - C, C++, Java, Python, JavaScript, Node JS, MATLAB
 
 <!-- Publications
 ======
