@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 # Personal Portfolio 
 
 ## Sameera Sandaruwan
