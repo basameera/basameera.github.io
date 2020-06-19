@@ -8,4 +8,4 @@ author_profile: true
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg){: .align-left} My primary research interest is to apply **machine learning** techniques that are capable of improving the **navigation** capabilities of **robotics systems** in dynamic environments.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg){: .align-left} My primary research interest is to apply **deep learning** techniques that are capable of improving the **navigation** capabilities of **robotics systems** in dynamic environments.

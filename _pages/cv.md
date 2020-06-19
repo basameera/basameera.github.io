@@ -4,7 +4,9 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+
+  + /resume
+
 toc: true
 toc_sticky: true
 ---
@@ -34,12 +36,28 @@ toc_sticky: true
 
 ## Skills
 
-* Deep Learning
-* Robotics
+### Fields
+
 * Control Systems
+* Deep Learning
+* Computer Vision
 * Embedded System Design
 * Wireless Communication
-* Programming languages - C, C++, Java, Python, JavaScript, Node JS, MATLAB
+
+### Programming languages
+
+* C/C++
+* Python
+* MATLAB
+* Java
+
+### Frameworks
+
+* ROS
+* OpenCV
+* PyTorch
+* Keras
+* Git
 
 <!-- Publications
 ======
@@ -88,4 +106,3 @@ toc_sticky: true
 * An active member of the Science Union and Organized the Science Day 2011 (St. Joseph's College, Colombo 10, Sri Lanka)
 
 ([Download CV](https://basameera.github.io/files/cv.pdf))
-
