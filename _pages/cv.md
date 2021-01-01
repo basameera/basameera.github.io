@@ -20,8 +20,11 @@ toc_sticky: true
 
 ## Work experience
 
+* August 2020 — Present : Embedded Hardware and Software Engineer
+  + **TEST-OK B.V.**
+
 * September 2016 — January 2018 : Research & Development Engineer / Co-Founder
-  + **Ceymoss Technologies** ([Website](http://www.ceymoss.com/))
+  + **Ceymoss Technologies**
   + Duties included: Product development, Network Adminstration, Web Development
 
   <!-- * Supervisor: Professor Git -->
