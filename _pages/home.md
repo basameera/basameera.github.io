@@ -8,4 +8,5 @@ author_profile: true
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg){: .align-left} My primary research interest is to apply **deep learning** techniques that are capable of improving the **navigation** capabilities of **robotics systems** in dynamic environments.
+<!-- ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg){: .align-left}  -->
+Detail-oriented Embedded Hardware Engineer with 3 years of experience in routing PCBs for sensor input, designing digital & analog hardware, and power supplies using Eagle CAD, interested to work in a multidisciplinary team to create state-of-the-art embedded systems towards a sustainable future.
