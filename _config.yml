@@ -96,8 +96,8 @@ author:
   avatar: "/assets/images/profile.jpg"
   bio: "M.Sc. in Artificial Intelligence <br>M.Eng. in EEE"
   location: "The Netherlands"
-  email: "ssandaruwan@tutamail.com"
-  github: "basameera"
+  #email: "ssandaruwan@tutamail.com"
+  #github: "basameera"
   linkedin: "ssandaruwan"
 
 # Site Footer
